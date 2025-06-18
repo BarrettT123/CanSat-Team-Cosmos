@@ -1,0 +1,1 @@
+This folder contains the design for the Flight computer, designed by me, Barrett Twining.
