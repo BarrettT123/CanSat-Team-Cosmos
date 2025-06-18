@@ -1,5 +1,7 @@
 ![banner](teambanner.png)
 
+(The software I contributed to this project can be found in the CanSat-Team-Cosmos-Software repository)
+
 Cansat Competition Description:
 - The Cansat competition is a design-build-fly competition that provides teams with an
 opportunity to experience the design life-cycle of an aerospace system. The Cansat
